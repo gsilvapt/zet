@@ -11,7 +11,7 @@ Blogs require a lot of effort to properly write and maintain. Zettelkasten, on t
 
 This site can be used in two ways:
 
-1. If you'd like to see what things I have been writing about, you can check the [Zettelkasten](./zet/) section freely.
+1. If you'd like to see what things I have been writing about, you can check the [Archive](./zet/) section freely.
 1. Search the website (press `s` on your keyboard) to find a given topic or keyword.
 
 ---
