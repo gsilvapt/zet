@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 timestamp=$(date '+%Y-%m-%d %H:%M')
-zet_cnt=$(expr $(find ../docs/zet/* -type d -maxdepth 1 | wc -l) + 1)
+zet_cnt=$(expr $(find ../docs/zet/* -maxdepth 1 -type d | wc -l) + 1)
 filepath="../docs/zet/$zet_cnt/"
 mkdir $filepath
  
