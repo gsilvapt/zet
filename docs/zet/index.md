@@ -1,4 +1,4 @@
-* 2024-06-12 21:57: [9](9/index.md)
+* 2024-06-12 21:57: [9](9/index.md) - TIL: QuerySets Over Multiple Tables May Not Return Unique Values
 * 2024-06-06 20:08: [8](8/index.md) - Use bulks, please
 * 2024-05-15 16:19: [7](7/index.md) - Django and Reverse M2M Relationship Filter
 * 2024-05-13 22:54: [6](6/index.md) - Change Freezes Done Right
