@@ -16,6 +16,7 @@ theme:
   include_sidebar: false
 
 markdown_extensions:
+  - footnotes
   - toc:
       permalink: "#"
 
